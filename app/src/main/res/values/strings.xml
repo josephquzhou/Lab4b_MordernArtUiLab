@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Modern Art UI</string>
+    <string name="top_menu_first">More Information</string>
+    <string name="dialog_msg1">"Inspired by the works of the artists such as\n"
+        "Piet Mondrain and Ben Nicholson."</string>
+    <string name="dialog_msg2">Click below to know more!</string>
+    <dimen name="view_margin">3dp</dimen>
+    <dimen name="dialog_margin">6dp</dimen>
+</resources>
